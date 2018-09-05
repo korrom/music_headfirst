@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f33ef8fb-ecf8-42d4-a709-b69a074dcc3a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MusicTest1.java" afterPath="$PROJECT_DIR$/src/MusicTest1.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,8 +21,8 @@
       <file leaf-file-name="MusicTest1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MusicTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -228,7 +226,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="760" y="0" width="1148" height="1084" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -296,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MusicTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

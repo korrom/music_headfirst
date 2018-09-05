@@ -9,7 +9,7 @@ public class MusicTest1 {
             Sequencer sequencer = MidiSystem.getSequencer();
             System.out.println("We get  sintezator");
         } catch (MidiUnavailableException e) {
-            e.printStackTrace();
+            System.out.println("Neudacha");
         }
     }
 
