@@ -11,6 +11,10 @@ public class MusicTest1 {
         } catch (MidiUnavailableException e) {
             e.printStackTrace();
         }
+    }
 
+    public static void main(String[] args) {
+        MusicTest1 mt = new MusicTest1();
+        mt.play();
     }
 }
